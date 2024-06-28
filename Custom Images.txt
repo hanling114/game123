@@ -1,0 +1,16 @@
+Custom Images:
+It is recommended that you not swap out images in the game, an incorrectly sized image can break the way the game handles images, ESPECIALLY with the paper doll system.
+
+
+
+Portraits:
+To replace a portrait in the "portraits" folder.  Find an image you like.  Cut a nice square snip of it and resize it to no more than 200 pixels high.  Needs to be in the .png format.
+
+Rename the current image in the game for the character so you don't loose it in case you ever want to use it again.
+
+Name new image what the original image was called
+
+EXAMPLE:
+If you take a look at the "portraits" folder you will see two images.  "anna.png" and "anna1.png"  This is where I've done exactly as explained above.  anna1.png was the original image, renamed.  then with no "anna.png" I renamed the new portrait to that and dropped it in the folder.
+
+This revision has been done for the following characters:  Anna, Eve, and Player.

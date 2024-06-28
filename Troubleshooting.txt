@@ -1,0 +1,43 @@
+Troubleshooting Guide
+
+Sections:
+	General Troubleshooting:
+		1.1 Game not working
+		1.2 Broken Images
+		1.3 Red Text
+		1.4 Scenes not triggering in spite of having the correct conditions.
+	Mobile Device Troubleshooting:
+		2.1 Game not working
+		2.2 Broken Images
+
+
+
+
+General Troubleshooting:
+
+	1.1
+	*Solution 1: Unzip/Uncompress the game download and try again.
+	*Solution 2: Try another browser.  Chrome is known to give html games troubles and a couple of others can be quirky.
+	
+	1.2
+	* Solution 1: Make sure you have unzipped/uncompressed the game file.  The game can not find compressed images.
+	
+	1.3 
+	*Red Text is broken code in the game.  The game is massive, and we don't always have time to test everything.  Red Text is almost always a case of a typo in the code and that's something you won't be able to fix on your end.  PLEASE, if you ever see red text, report it either on our Discord server in the "bug-reports" channel, or by sending GateKeeper a private message.  I always make an effort to fix bugs as soon as I am able, but I can't fix problems I am not aware of.  It's help from fans like you that allows us to make the best game possible.
+	1.4
+	*If you have a scene that refuses to trigger and you KNOW you have the conditions for it, check in Settings and there is an option to "Reset Variables."  Sometimes if you navigate away from an important scene before it is complete, you'll break a variable in the game.  The Reset Variable option will often change the variable state to something that will allow story progression to continue, very often the scenes you were waiting will trigger quickly after the reset.
+
+Mobile Device Troubleshooting:
+
+	2.1
+	*Solution 1: Unzip/Uncompress the game download and try again.
+	*Solution 2: Try another browser.  Not all browsers for mobile devices work well with html games.
+	
+	2.2
+	* Solution 1: Make sure you have unzipped/uncompressed the game file.  The game can not find compressed images.  This 
+	* Solution 2: Try a different browser.  Images not loading on mobile devices is a fairly common problem, much of the time this is a case of the browser you are using not being able to properly handle images in html games.
+	* Solution 3: Make sure that url starts with file:/  In browser.
+
+
+
+
