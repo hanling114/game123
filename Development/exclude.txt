@@ -1,0 +1,16 @@
+\Source\
+.jar
+.bat
+.bbc
+\Bologna\
+\Holiday\
+\Development\
+details1.js
+details2.js
+details3.js
+details4.js
+details5.js
+details6.js
+details7.js
+details8.js
+details9.js
